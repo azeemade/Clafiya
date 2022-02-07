@@ -9,7 +9,7 @@ export default{
 
 <style>
 #app {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Lato', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .router-link-active.router-link-exact-active {
+    @apply text-0a459f;
+  }
+}
